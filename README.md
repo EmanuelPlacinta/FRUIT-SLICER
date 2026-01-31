@@ -1,5 +1,4 @@
-cat > README.md << 'EOF'
-# FRUIT SLICER PRO
+# FRUIT SLICER
 
 Un jeu de tranchage de fruits inspiré de Fruit Ninja, développé en Python avec Pygame.
 
