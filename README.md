@@ -84,4 +84,3 @@ Développé avec Python et Pygame.
 ---
 
 **Amusez-vous bien !**
-EOF
